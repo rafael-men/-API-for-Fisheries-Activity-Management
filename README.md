@@ -1,13 +1,12 @@
 # API REST Sistema de controle de atividades pesqueiras
 
-Descrição
 O projeto é uma API RESTful parte de um projeto fullstack que permite gerenciar dados relacionados a pescadores, suas redes e atividades de pesca. A aplicação foi desenvolvida utilizando ASP.NET Core (C#) como framework backend e PostgreSQL como banco de dados relacional.
 
 ## Funcionalidades Principais
-Cadastro e autenticação de usuários (pescadores).
-Registro de redes de pesca.
-Gerenciamento de capturas e relatórios de pesca.
-Consulta de estatísticas e histórico de atividades.
+- Cadastro e autenticação de usuários (pescadores).
+- Registro de redes de pesca.
+- Gerenciamento de capturas e relatórios de pesca.
+- Consulta de estatísticas e histórico de atividades.
 
 ## Pré-requisitos
 - Para executar esta aplicação localmente, você precisará dos seguintes componentes instalados:
