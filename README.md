@@ -1,4 +1,4 @@
-# API REST Pescadores
+# API REST Sistema de controle de atividades pesqueiras
 
 Descrição
 O projeto é uma API RESTful parte de um projeto fullstack que permite gerenciar dados relacionados a pescadores, suas redes e atividades de pesca. A aplicação foi desenvolvida utilizando ASP.NET Core (C#) como framework backend e PostgreSQL como banco de dados relacional.
@@ -48,13 +48,5 @@ dotnet run
 ```
 - A API estará disponível em **http://localhost:5207**.
 
-## Contribuição
 
-Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga os passos abaixo:
-
-- Faça um fork do repositório.
-- Crie uma branch para sua feature (git checkout -b feature/nova-funcionalidade).
-- Faça commit das suas alterações (git commit -m 'Adiciona nova funcionalidade').
-- Envie suas alterações para o repositório remoto (git push origin feature/nova-funcionalidade).
-- Abra um pull request no GitHub.
 
